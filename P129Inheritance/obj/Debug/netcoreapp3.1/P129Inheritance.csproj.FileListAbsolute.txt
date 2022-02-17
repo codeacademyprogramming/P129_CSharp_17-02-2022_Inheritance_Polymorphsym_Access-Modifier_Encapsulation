@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129Inheritance\bin\Debug\netcoreapp3.1\P129Inheritance.exe
+C:\Users\memme\Desktop\P129\Task\P129Inheritance\bin\Debug\netcoreapp3.1\P129Inheritance.deps.json
+C:\Users\memme\Desktop\P129\Task\P129Inheritance\bin\Debug\netcoreapp3.1\P129Inheritance.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129Inheritance\bin\Debug\netcoreapp3.1\P129Inheritance.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129Inheritance\bin\Debug\netcoreapp3.1\P129Inheritance.dll
+C:\Users\memme\Desktop\P129\Task\P129Inheritance\bin\Debug\netcoreapp3.1\P129Inheritance.pdb
+C:\Users\memme\Desktop\P129\Task\P129Inheritance\obj\Debug\netcoreapp3.1\P129Inheritance.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129Inheritance\obj\Debug\netcoreapp3.1\P129Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129Inheritance\obj\Debug\netcoreapp3.1\P129Inheritance.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129Inheritance\obj\Debug\netcoreapp3.1\P129Inheritance.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129Inheritance\obj\Debug\netcoreapp3.1\P129Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129Inheritance\obj\Debug\netcoreapp3.1\P129Inheritance.dll
+C:\Users\memme\Desktop\P129\Task\P129Inheritance\obj\Debug\netcoreapp3.1\P129Inheritance.pdb
+C:\Users\memme\Desktop\P129\Task\P129Inheritance\obj\Debug\netcoreapp3.1\P129Inheritance.genruntimeconfig.cache
